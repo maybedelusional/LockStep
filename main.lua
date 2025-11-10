@@ -5,7 +5,7 @@ api:set_lua_name("GPT Resolver")
 
 -- 2) Define your owner list here (no UI/commands to change it)
 local ownerList = {
-    379301956,  -- your UserId
+    379301956, 3084980990  -- your UserId
     -- add more IDs if you want multiple owners
 }
 local function isOwner(id)
